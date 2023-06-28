@@ -12,3 +12,5 @@ assign readdata = data;
 assign clk_count = data;
 
 endmodule 
+
+//teste para verificar atualização no vs code
