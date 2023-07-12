@@ -14,3 +14,4 @@ assign clk_count = data;
 endmodule 
 
 //teste para verificar atualização no vs code
+//comentario para testar staged changes em git status
